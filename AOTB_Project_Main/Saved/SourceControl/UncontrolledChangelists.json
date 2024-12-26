@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/heath/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/WP_GameOver.uasset",
+				"C:/Users/heath/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/WP_PauseMenu.uasset",
+				"C:/Users/heath/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/IA_Pause.uasset",
+				"C:/Users/heath/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/IMC_Default.uasset",
+				"C:/Users/heath/Documents/GitHub/AOTB/AOTB_Project_Main/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"X:/Unreal Projects/git/AOTB/AOTB_Project_Main/Content/__ExternalActors__/ThirdPerson/Maps/Heathers_Sandbox/2/EC/KNB88GLYVQOGHWL0HX9WI8.uasset",
 				"X:/Unreal Projects/git/AOTB/AOTB_Project_Main/Content/__ExternalActors__/ThirdPerson/Maps/Heathers_Sandbox/5/SU/SNVERXOSDH4T0PXXIWJB7O.uasset",
 				"X:/Unreal Projects/git/AOTB/AOTB_Project_Main/Content/__ExternalActors__/ThirdPerson/Maps/Heathers_Sandbox/4/B4/D36X52YZIC265J3E8GV9D4.uasset",
