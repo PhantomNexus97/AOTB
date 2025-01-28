@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
+				"C:/Users/1801087.UCREATIVE/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/Levels/MainMenu.umap",
+				"C:/Users/1801087.UCREATIVE/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/WP_MainMenu.uasset",
+				"C:/Users/1801087.UCREATIVE/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/Blueprints/BP_NoMove.uasset",
+				"C:/Users/1801087.UCREATIVE/Documents/GitHub/AOTB/AOTB_Project_Main/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/2002384/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/WP_GameOver.uasset",
 				"C:/Users/2002384/Documents/GitHub/AOTB/AOTB_Project_Main/Content/_Main/WP_Hud.uasset",
 				"C:/Users/2002384/Documents/GitHub/AOTB/AOTB_Project_Main/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
